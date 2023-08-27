@@ -63,7 +63,7 @@ Stop Time 2023-08-23 20:26:13
 | SecurityIncident         | 361
 | AzureNetworkAnalytics_CL | 3285
 
-## Attack Maps Before Hardening / Security Controls
+## Attack Maps After Hardening / Security Controls
 
 ```All map queries actually returned no results due to no instances of malicious activity for the 24 hour period after hardening.```
 
@@ -80,6 +80,14 @@ Stop Time	2023-08-25 14:07:39
 | SecurityAlert            | 0
 | SecurityIncident         | 0
 | AzureNetworkAnalytics_CL | 0
+
+| Metric                   | % of Change after hardened environment
+| ------------------------ | ---------------------------------
+| Security Events (Windows VMs)            | - 77.10 %
+| Syslog (Linux VMs)                       | - 99.99 %
+| SecurityAlert (Microsoft Defender for Cloud)       | - 100 %
+| Security Incident (Sentinel Incidents)            | - 100 %
+| NSG Inbound Malicious Flows Allowed         | - 100%
 
 ## Conclusion
 
