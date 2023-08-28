@@ -79,6 +79,11 @@ Before hardened the enviroment, I took the opportunity to simulate specific atta
   - Malware Detection (EICAR Test File)
   - Privelege Escalation
 
+![image](https://github.com/jamesgmoore/Azure-SOC-HoneyNet/assets/143222991/1b026321-c8d8-4f2a-8cca-b5eeeebb408c)
+![image](https://github.com/jamesgmoore/Azure-SOC-HoneyNet/assets/143222991/38fe25ce-880e-4178-a7ef-270f44e42e28)
+![image](https://github.com/jamesgmoore/Azure-SOC-HoneyNet/assets/143222991/c4b6b87a-28cb-460f-86b4-b1e415e68d32)
+
+
 
 ## Utilizing NIST 800.61r2 Computer Incident Handling Guide
 
@@ -110,6 +115,8 @@ The Azure lab was set up to ingest all of the logs in the the Log Anayltics Work
 • Report disseminated to all stakeholders
 • Corrective actions are implemented to remediate the root cause.
 • Lessons-learned review of the incident was conducted. 
+
+![image](https://github.com/jamesgmoore/Azure-SOC-HoneyNet/assets/143222991/36f9df4d-3213-4a8b-a5e3-e33b08e24e10)
 
 
 
